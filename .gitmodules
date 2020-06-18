@@ -1,0 +1,3 @@
+[submodule "ds3231_driver"]
+	path = ds3231_driver
+	url = https://github.com/HexRx/ds3231_driver
